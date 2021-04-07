@@ -6,4 +6,11 @@ print("eat burger")
 print("eat fries")
 
 else:
+<<<<<<< HEAD
 print("do your homework")
+=======
+thirsty=input("are you thirsty")
+if thirsty=='yes':
+    print("drink water")
+    print("drink soda")
+>>>>>>> thirsty
