@@ -14,3 +14,4 @@ if thirsty=='yes':
     print("drink water")
     print("drink soda")
 >>>>>>> thirsty
+abhi jinda hu to ji lene do
