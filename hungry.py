@@ -15,3 +15,5 @@ if thirsty=='yes':
     print("drink soda")
 >>>>>>> thirsty
 abhi jinda hu to ji lene do
+
+checkinhg for ravis query 
